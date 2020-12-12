@@ -1,1 +1,1 @@
-"This is FileB Version1 Feature-Branch" 
+"This is FileB Version2" 
